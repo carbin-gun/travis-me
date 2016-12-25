@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;travis-me&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../go.planetmeican.com" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../logger" />
+      <root url="file://$PROJECT_DIR$/../../../golang-stdlib" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../file-process" />
+      <root url="file://$PROJECT_DIR$/../../../fanfu-golang" />
+      <root url="file://$PROJECT_DIR$/../../../my" />
+      <root url="file://$PROJECT_DIR$/../../../my-make-golang" />
+      <root url="file://$PROJECT_DIR$/../../../dev.justinjudd.org" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../signal-process" />
+      <root url="file://$PROJECT_DIR$/../../../jsonp-pair" />
+      <root url="file://$PROJECT_DIR$/../../../myproject" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../goim" />
+      <root url="file://$PROJECT_DIR$/../../../code.google.com" />
+      <root url="file://$PROJECT_DIR$/../../../json-server" />
+      <root url="file://$PROJECT_DIR$/../../../idgen" />
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../MyGoProject" />
+      <root url="file://$PROJECT_DIR$/../../../myOwn" />
+      <root url="file://$PROJECT_DIR$/../../../chan-chan" />
+      <root url="file://$PROJECT_DIR$/../../../jsonp" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../go.planetmeican.com" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../logger" />
+      <root url="file://$PROJECT_DIR$/../../../golang-stdlib" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../file-process" />
+      <root url="file://$PROJECT_DIR$/../../../fanfu-golang" />
+      <root url="file://$PROJECT_DIR$/../../../my" />
+      <root url="file://$PROJECT_DIR$/../../../my-make-golang" />
+      <root url="file://$PROJECT_DIR$/../../../dev.justinjudd.org" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../signal-process" />
+      <root url="file://$PROJECT_DIR$/../../../jsonp-pair" />
+      <root url="file://$PROJECT_DIR$/../../../myproject" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../goim" />
+      <root url="file://$PROJECT_DIR$/../../../code.google.com" />
+      <root url="file://$PROJECT_DIR$/../../../json-server" />
+      <root url="file://$PROJECT_DIR$/../../../idgen" />
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../MyGoProject" />
+      <root url="file://$PROJECT_DIR$/../../../myOwn" />
+      <root url="file://$PROJECT_DIR$/../../../chan-chan" />
+      <root url="file://$PROJECT_DIR$/../../../jsonp" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
