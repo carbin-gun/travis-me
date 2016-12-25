@@ -1,0 +1,14 @@
+.idea/
+*.swp
+*.prof
+.DS_Store
+.idea/*
+*.exe
+*.swp
+*.prof
+app.log.*
+app.log*
+app.log
+access.log.*
+access.log
+*.log.*
